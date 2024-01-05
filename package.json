@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset": "^1.1.7",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.18.2",
+    "jest": "^29.7.0"
+  },
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "nodejs demo",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharath19882023/nodejs-demo.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "bable"
+  ],
+  "author": "Bharath Nelapatla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharath19882023/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/bharath19882023/nodejs-demo#readme"
+}
